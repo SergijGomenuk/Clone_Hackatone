@@ -579,6 +579,10 @@ footer img{
     animation-iteration-count: infinite;
 }
 
+.main-sale-buy a{
+    text-decoration: none;
+}
+
 .item-list a{
     text-decoration: none;
 }
