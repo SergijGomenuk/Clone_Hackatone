@@ -278,6 +278,17 @@
     cursor: pointer;
 }
 
+.show-more-btn a{
+    color:rgb(65,121,160) ;
+    text-decoration: none;
+}
+
+.show-more-btn a:hover{
+    animation-name: text_color ;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
 .main-container{
     display: flex;
     justify-content: space-between;
